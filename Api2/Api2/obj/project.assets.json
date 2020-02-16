@@ -13466,11 +13466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Desafio.Net\\Api2\\Api2\\Api2.csproj",
+      "projectUniqueName": "C:\\Desafio.Net\\Api2\\Api2\\Api2.csproj",
       "projectName": "Api2",
-      "projectPath": "C:\\TEMP\\Desafio.Net\\Api2\\Api2\\Api2.csproj",
+      "projectPath": "C:\\Desafio.Net\\Api2\\Api2\\Api2.csproj",
       "packagesPath": "C:\\Users\\envolti.luiz\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Desafio.Net\\Api2\\Api2\\obj\\",
+      "outputPath": "C:\\Desafio.Net\\Api2\\Api2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

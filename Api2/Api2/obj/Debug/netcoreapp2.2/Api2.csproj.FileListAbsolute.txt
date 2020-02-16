@@ -12,3 +12,17 @@ C:\TEMP\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.AssemblyInfo.cs
 C:\TEMP\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorTargetAssemblyInfo.cache
 C:\TEMP\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.dll
 C:\TEMP\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.pdb
+C:\Desafio.Net\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.deps.json
+C:\Desafio.Net\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.runtimeconfig.json
+C:\Desafio.Net\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.runtimeconfig.dev.json
+C:\Desafio.Net\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.dll
+C:\Desafio.Net\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.pdb
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.csprojAssemblyReference.cache
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.csproj.CoreCompileInputs.cache
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorAssemblyInfo.cache
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorAssemblyInfo.cs
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.AssemblyInfoInputs.cache
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.AssemblyInfo.cs
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorTargetAssemblyInfo.cache
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.dll
+C:\Desafio.Net\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.pdb

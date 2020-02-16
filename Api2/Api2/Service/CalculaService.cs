@@ -35,16 +35,16 @@ namespace Api2.Service
         private string ValidarParametros(string valor, string tempo)
         {
             if (string.IsNullOrWhiteSpace(valor))
-                return "Campo Valor Inicial Obrigatorio";
+                return "Campo Valor Inicial Obrigatório";
 
             if (string.IsNullOrWhiteSpace(tempo))
-                return "Campo Messes Obrigatorio";
+                return "Campo Meses Obrigatório";
 
             if (double.TryParse(valor, out double valorValido) == false)
-                return "Confira o campo Valor Inicial,  campo Númerico";
+                return "Confira o campo Valor Inicial,  campo Numérico";
 
-            if (Int32.TryParse(tempo, out  int messes) == false)
-                return "Confira o campo Meses,  Campo númerico sem casas decimais";
+            if (Int32.TryParse(tempo, out  int meses) == false)
+                return "Confira o campo Meses,  Campo numérico sem casas decimais";
 
             return string.Empty;
         }

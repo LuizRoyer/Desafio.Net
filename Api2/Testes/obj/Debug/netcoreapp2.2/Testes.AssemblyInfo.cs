@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Api2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\TEMP\\Desafio.Net\\Api2\\Api2", "Api2.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Api2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Desafio.Net\\Api2\\Api2", "Api2.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
