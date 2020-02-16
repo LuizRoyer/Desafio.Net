@@ -1,0 +1,14 @@
+C:\Desafio.Net\Api\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Desafio.Net\Api\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Desafio.Net\Api\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Desafio.Net\Api\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Desafio.Net\Api\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Desafio.Net\Api\Api\obj\Debug\netcoreapp2.2\Api.pdb
